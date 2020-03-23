@@ -2,8 +2,8 @@
 Creating an AWS RDS with connection through a client over the Internet
 ====
 
-Steps
-=
+*Steps*
+
 1. Connect to AWS Console and select RDS
 
 2. Creating an RDS:
