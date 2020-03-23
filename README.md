@@ -1,5 +1,5 @@
 Creating an AWS RDS with connection through a client over the Internet
-===
+==
 
 **Steps**
 
@@ -29,6 +29,9 @@ Creating an AWS RDS with connection through a client over the Internet
 
 4. Connect using the AWS RDS endpoint, admin username and password
 
+AWS Diagram
+=
+![MySQL Connectiondrawio](https://user-images.githubusercontent.com/28940499/77283901-d196a000-6ca3-11ea-8a69-ed675fa249a9.png)
 
 
 
